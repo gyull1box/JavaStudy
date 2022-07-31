@@ -10,7 +10,6 @@ class TreeSetLotto {
 			int num = (int)(Math.random()*45) + 1;
 			set.add(num);	// set.add(new Integer(num));
 		}
-		
 		System.out.println(set);
 	}
 }
